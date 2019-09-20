@@ -7,7 +7,7 @@
     "build": "vue-cli-service build --dest controlfront"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "echarts": "^4.2.0-rc.2",
     "element-ui": "^2.4.5",
     "v-charts": "^1.19.0",
